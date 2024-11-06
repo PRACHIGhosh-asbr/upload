@@ -1,2 +1,2 @@
 import pywhatkit
-pywhatkit.sendwhatmsg('+919433726857', 'Good Afternoon',12,35)
+pywhatkit.sendwhatmsg('----phone number---', 'Good Afternoon',12,35)
